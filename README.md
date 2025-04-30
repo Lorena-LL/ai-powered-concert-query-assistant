@@ -1,4 +1,4 @@
-# Concert Query Assistant
+# AI-powered Concert Query Assistant
 
 This is an intelligent concert information assistant that allows users to query details about music events from ingested documents or online sources using RAG (Retrieval-Augmented Generation).
 
