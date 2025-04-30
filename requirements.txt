@@ -1,0 +1,7 @@
+transformers
+sentence-transformers
+chromadb
+torch
+numpy
+requests
+python-dotenv
